@@ -9,6 +9,7 @@ The board checks and displays
 - Lap time  
 - Driving motor temperature  
 - Driving Modes(Hybrid, Eletric only, Engine only)
+- Battery Status
 
 ![Module Image](HV_DISPLAY.jpg)
 ![Board Image](HV_DISPLAY_INSIDE.jpg)
