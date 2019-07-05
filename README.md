@@ -13,3 +13,4 @@ The board checks and displays
 
 ![Module Image](HV_DISPLAY.jpg)
 ![Board Image](HV_DISPLAY_INSIDE.jpg)
+![Car Image](car.jpg)  
